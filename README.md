@@ -1,5 +1,7 @@
 # youtube-history
-My Youtube Data for my coding journey. Updated monthly
+My Youtube Data for my coding journey since May 2021. Updated on a regular basis.
+
+I started with Python, explored Solidity, and now I'm on Javascript and looking to commit to Javascript to land a web dev job. Looking to revisit Solidity once I have a better grasp on JS, React, and NodeJS.
 
 The purpose of this repository is to track my Youtube history for everything coding related. I created a separate Google account just for coding to log my history and help the Youtube algorithm adjust my feed to show me videos that will help me further on my coding journey. 
 
